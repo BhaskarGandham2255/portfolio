@@ -11,7 +11,7 @@
 }
 .menu .menu-item:hover,.active
 {
-   border-bottom: 2px solid red;
+   border-bottom: 2px solid blue;
 }
 .s1-Into
 {
@@ -20,4 +20,24 @@
         font-weight: 400;
         font-style: bold;
         line-height: 43px;
+}
+
+/* section 2 */
+.line
+{
+    background:blue;
+    border: 2px solid blue;
+    height: 2px;
+    width: 140px;
+
+}
+
+.s2text
+{
+    text-align: justify;
+    line-height: 39px;
+    font-family: "Poppins", sans-serif;
+    font-weight: 400;
+    font-style: bold;
+    line-height: 43px;
 }
